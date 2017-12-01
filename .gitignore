@@ -1,2 +1,7 @@
-
+.idea
 .DS_Store
+*.xml
+*.lst
+*.class
+*.iml
+*.txt
