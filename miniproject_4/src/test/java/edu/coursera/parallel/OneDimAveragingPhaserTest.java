@@ -7,7 +7,7 @@ import junit.framework.TestCase;
 
 public class OneDimAveragingPhaserTest extends TestCase {
     // Number of times to repeat each test, for consistent timing results.
-    final static private int niterations = 12000;
+    final static private int niterations = 200;
 
     private static int getNCores() {
         String ncoresStr = System.getenv("COURSERA_GRADER_NCORES");
