@@ -13,3 +13,14 @@ Phasers ArriveAndAwaitAdvance act like Barrier
 Break into Arrive and AwaitAdvance that allows local Thread Specific work between
 Arrive and AwaitAdvance
 ```
+
+To Test , Build --> 
+```
+cd miniproject_{WeekNumber}
+```
+```
+mvn test
+```
+```
+mvn clean install
+```
