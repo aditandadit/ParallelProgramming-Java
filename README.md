@@ -9,8 +9,8 @@ Week 3 : Parallel Matrix Multiple using Thread Chunking
 
 Week 4 : implementing one-dimensional iterative averaging using Phasers.
 ```
-Phasers ArriveAndAwaitAdvance act like Barrier 
-Break into Arrive and AwaitAdvance that allows local Thread Specific work between
+Phasers ArriveAndAwaitAdvance acts like a Barrier 
+Broken into Arrive and AwaitAdvance a Phasor Allow local Thread Specific work between
 Arrive and AwaitAdvance
 ```
 
